@@ -1,0 +1,9 @@
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\bin\Debug\BugScenario.dll
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\bin\Debug\BugScenario.pdb
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\bin\Debug\Castle.Core.dll
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\bin\Debug\Castle.Windsor.dll
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\bin\Debug\Castle.Core.xml
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\bin\Debug\Castle.Windsor.xml
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\obj\x86\Debug\BugScenario.dll
+c:\users\hvitorino\documents\visual studio 2010\Projects\BugScenario\obj\x86\Debug\BugScenario.pdb
